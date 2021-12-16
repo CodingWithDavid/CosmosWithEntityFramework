@@ -27,12 +27,10 @@ a.	With Visual Code you will need to install the C# extensions
 ## What's in the App
 
 1. Creating a Cosmos DB through Entity Framework
-2. USing the Azure Cosmos DB local Emulator
+2. Using the Azure Cosmos DB local Emulator
 3. Adding records to the database
 4. Added new entities to the database with out having to change the schema
 
-
-## [Demo](https://runbatmanrun.z22.web.core.windows.net/)
 
 ## Problems or Suggestions
 
