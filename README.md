@@ -2,7 +2,7 @@
 
 This is a simple looking application that will show how to create and use a Cosmos DB with Entity Framework.
 
-*** PLEASE NOTE THIS REQUIRES .NET 6 ***
+*** PLEASE NOTE THIS REQUIRES .NET 6 and Visual Studio 2022 ***
 
 by [David Gallivan](http://twitter.com/CodingwithDavid)
 
