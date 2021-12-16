@@ -4,7 +4,7 @@
 using Microsoft.EntityFrameworkCore;
 
 using var context = new TestContext();
-//context.Database.EnsureCreated();
+context.Database.EnsureCreated();
 
 var account = new Account()
 {
@@ -23,8 +23,8 @@ var user = new User()
 };
 user.Accounts.Add(account);
 
-//context.Users.Add(user);
-//context.SaveChanges();
+context.Users.Add(user);
+context.SaveChanges();
 
 var product = new Product()
 {
